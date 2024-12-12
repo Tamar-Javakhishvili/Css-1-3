@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#containerHeader {
+    max-width: 1220px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#mainHeader {
+    color: #000;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 53px;
+}
+
+#headerText {
+    color: #FF8000;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 63px;
+}
+
+#articleOne {
+    max-width: 696px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: 67px;
+}
+
+#bigBang {
+    color: #D9AE00;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+#contentBigbang {
+    color: #6D81B4;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+#imgbang {
+    margin-bottom: 101px;
+}
+
+#articleTwo {
+    max-width: 1007px;
+    width: 100%;
+    text-align: center;
+    margin-left: 74px;
+    padding: 64px;
+    background-color: #FFCEBE;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #F44E50;
+    border-bottom: 2px solid #F44E50;
+}
+
+#blackHole {
+    max-width: 681px;
+    width: 100%;
+    color: #F44E50;
+    font-size: 40px;
+    margin: 0 auto;
+}
+
+#contentBlackhole {
+    max-width: 681px;
+    width: 100%;
+    color: #8B2B2C;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#imgBlack {
+    margin-top: 30px;
+}
+
+#articleThree {
+    max-width: 696px;
+    width: 100%;
+    margin-left: 74px;
+    margin-top: 101px;
+}
+
+#stringTheory {
+    color: #4716E4;
+    text-align: right;
+    font-size: 40px;
+    margin-bottom: 24px;
+
+}
+
+#contentStringtheory {
+    color: #616161;
+    text-align: right;
+    font-size: 24px;
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    margin-bottom: 30px;
+}
+
+#keyPoints {
+    color: #414651;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+#universe {
+    max-width: 696px;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+#list1 {
+    color: #C27512;
+    font-size: 16px;
+    vertical-align: middle;
+    display: inline-block;
+    width: 658px;
+}
+
+#img1 {
+    vertical-align: middle;
+    margin-right: 12px;
+
+}
+
+#Dimensions {
+    max-width: 696px;
+    width: 100%;
+    margin-bottom: 8px;
+
+}
+
+#list2 {
+    width: 658px;
+    color: #C27512;
+    font-size: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#img2 {
+    vertical-align: middle;
+    margin-right: 12px
+}
+
+#Strings {
+    max-width: 696px;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+#list3 {
+    width: 658px;
+    color: #C27512;
+    font-size: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#img3 {
+    vertical-align: middle;
+    margin-right: 12px
+}
+
+#imgTheory {
+    max-width: 696px;
+    width: 100%;
+    margin-top: 30px;
+}
